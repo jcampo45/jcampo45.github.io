@@ -1339,7 +1339,7 @@
 		padding: 4em 0 2em 0;
 	}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 7360px) {
 
 			#main {
 				padding: 3em 0 1em 0;
@@ -1353,7 +1353,7 @@
 			margin: 0 auto;
 		}
 
-			@media screen and (max-width: 480px) {
+			@media screen and (max-width: 4800px) {
 
 				#main .inner {
 					width: 95%;
