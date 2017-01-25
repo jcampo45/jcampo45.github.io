@@ -1337,6 +1337,7 @@
 
 	#main {
 		padding: 4em 0 2em 0;
+		test-align: center;
 	}
 
 		@media screen and (max-width: 7360px) {
